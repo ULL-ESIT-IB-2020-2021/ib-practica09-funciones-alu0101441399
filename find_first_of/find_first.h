@@ -1,0 +1,1 @@
+int coincidencia(std::string word, std::string character);
